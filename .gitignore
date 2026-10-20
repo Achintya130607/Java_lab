@@ -1,7 +1,0 @@
-target/
-*.class
-*.war
-*.log
-.idea/
-.vscode/
-product.ser
