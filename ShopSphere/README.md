@@ -89,12 +89,21 @@ This project demonstrates practical implementation of:
 - Web application deployment using Apache Tomcat
 - Java Swing desktop interfaces
 
-## Author
-
-**Achintya Agrawal**
-
-GitHub: [Achintya130607](https://github.com/Achintya130607)
-
 ## Academic Project
 
 Developed for learning and demonstrating Advanced Java concepts and practical software development skills.
+
+
+## 🔗 Project Links
+
+- 🌐 **Live Website:** [ShopSphere — Online Shopping](https://shopsphere-rue9.onrender.com/products)
+- 💻 **GitHub Repository:** [Java_lab](https://github.com/Achintya130607/Java_lab)
+- 👨‍💻 **Developer Profile:** [Achintya130607](https://github.com/Achintya130607)
+
+## 👨‍💻 Author
+
+**Achintya Agrawal**  
+B.Tech Computer Science Student
+
+ShopSphere is an Advanced Java academic project developed to demonstrate Java web development, database connectivity, and e-commerce functionality.
+
