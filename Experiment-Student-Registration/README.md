@@ -26,3 +26,5 @@ This project allows users to enter student details through an interactive regist
 
 ## Output
 The application displays a student registration form and shows the submitted student details after successful registration.
+
+https://github.com/Achintya130607/Java_lab/blob/main/Experiment-Student-Registration/StudentRegistration.png
