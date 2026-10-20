@@ -1,0 +1,18 @@
+<footer style="
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+    font-family:Arial,sans-serif;
+">
+
+    <p style="margin:0;">
+        © 2026 ShopSphere - RTU Advanced Java Project
+    </p>
+
+    <p style="margin:8px 0 0;">
+        Java • JSP • Servlet • JDBC • MySQL
+    </p>
+
+</footer>

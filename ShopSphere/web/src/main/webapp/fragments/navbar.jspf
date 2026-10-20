@@ -1,0 +1,45 @@
+<nav style="background:#222; padding:14px 18px;">
+    <div style="display:flex; align-items:center; gap:28px; flex-wrap:wrap;">
+
+        <a href="/shopsphere/"
+           style="color:white; text-decoration:none; font-size:18px;">
+            ShopSphere
+        </a>
+
+        <a href="/shopsphere/products"
+           style="color:white; text-decoration:none;">
+            Products
+        </a>
+
+        <a href="/shopsphere/cart"
+           style="color:white; text-decoration:none;">
+            Cart
+        </a>
+
+        <a href="/shopsphere/wishlist"
+           style="color:white; text-decoration:none;">
+            Wishlist
+        </a>
+
+        <a href="/shopsphere/orders"
+           style="color:white; text-decoration:none;">
+            Orders
+        </a>
+
+        <a href="/shopsphere/profile"
+           style="color:white; text-decoration:none;">
+            Profile
+        </a>
+
+        <a href="/shopsphere/login"
+           style="color:white; text-decoration:none;">
+            Login
+        </a>
+
+        <a href="/shopsphere/register"
+           style="color:white; text-decoration:none;">
+            Register
+        </a>
+
+    </div>
+</nav>
