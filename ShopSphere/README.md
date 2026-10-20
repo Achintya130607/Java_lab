@@ -1,5 +1,9 @@
 # ShopSphere — Java E-Commerce Web Application
 
+![ShopSphere Home Page](shopsphere-home.png)
+
+*ShopSphere — Online Shopping Website*
+
 ShopSphere is a Java-based e-commerce application developed as an Advanced Java academic project. It provides an online shopping experience with product browsing, user accounts, cart management, wishlist, checkout, and administrative features.
 
 ## Features
